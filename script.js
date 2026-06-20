@@ -1,4 +1,4 @@
-let h = screen.height/2;
+let h =  300;
 let w = 318*h/550;
 
 let NUMBERS = ["1", "2", "3", "4", "5", "6", "7", "8"]
