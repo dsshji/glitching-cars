@@ -12,7 +12,7 @@ An ASCII/glitch art piece built with p5.js. Eight top-down car photos are render
 
 ## Running locally
 
-This needs to run from a local server or could be run via [GitHub Pages] ()
+This needs to run from a local server or could be run via [GitHub Pages](https://dsshji.github.io/glitching-cars/)
 
 1. Clone the repo
 2. Open the folder in VS Code
